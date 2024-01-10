@@ -4,7 +4,7 @@ In This repo. we have one folder [THE BASIC THREE ](THE%20BASIC%20THREE/) which 
 
 ## Contents
 
--[The Cifar_10](THE%20BASIC%20THREE/Cifar_10)
+-[The Cifar_10](THE%20BASIC%20THREE/Cifar_10.ipynb)
    
     dataset used: CIFAR_10
     
