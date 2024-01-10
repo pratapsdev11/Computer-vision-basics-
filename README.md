@@ -10,7 +10,7 @@ In This repo. we have one folder [THE BASIC THREE ](THE%20BASIC%20THREE/) which 
     
     model used: ResNet50
     
--[mnist_from_scratch](THE%20BASIC%20THREE/mnist_from_scratch.ipynb)
+-[mnist_from_scratch](THE%20BASIC%20THREE/mnist_from_scratch_.ipynb)
     
     dataset used: Mnist
     
