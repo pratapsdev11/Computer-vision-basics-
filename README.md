@@ -17,4 +17,27 @@ In This repo. we have one folder [THE BASIC THREE ](THE%20BASIC%20THREE/) which 
     model used: created neural network from scratch
 
     
-    
+    # Dependencies
+
+The projects in this repository use the following libraries:
+
+- [numpy](https://numpy.org/): `import numpy as np` ![numpy](https://img.shields.io/badge/numpy-v1.21.2-blue)
+- [pandas](https://pandas.pydata.org/): `import pandas as pd` ![pandas](https://img.shields.io/badge/pandas-v1.3.3-blue)
+- [PIL (Pillow)](https://pillow.readthedocs.io/): `from PIL import Image` ![Pillow](https://img.shields.io/badge/Pillow-v8.4.0-blue)
+- [matplotlib](https://matplotlib.org/): `import matplotlib.pyplot as plt` ![matplotlib](https://img.shields.io/badge/matplotlib-v3.4.3-blue)
+- [OpenCV (cv2)](https://opencv.org/): `import cv2` ![OpenCV](https://img.shields.io/badge/OpenCV-v4.5.3-blue)
+- [scikit-learn](https://scikit-learn.org/stable/): `from sklearn.model_selection import train_test_split` ![sklearn](https://img.shields.io/badge/scikit--learn-v0.24.2-blue)
+- [TensorFlow](https://www.tensorflow.org/): 
+  - `from tensorflow.keras import Sequential, models, layers`
+  - `from tensorflow.keras.layers import Dense, Dropout, Flatten`
+  - `from tensorflow.keras.layers import BatchNormalization`
+  - `from tensorflow.keras.models import load_model`
+  - `from tensorflow.keras.models import Model`
+  - `from tensorflow.keras.applications.resnet50 import ResNet50`
+  - `from tensorflow.keras import optimizers` 
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.7.0-blue)
+
+Make sure to replace the version numbers with the versions you have used in your projects. The badges provide a visual representation of the library versions, and users can click on them to access the official documentation.
+
+Feel free to customize the URLs, library names, and version numbers based on your actual dependencies.
+
