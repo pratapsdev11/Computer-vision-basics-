@@ -17,7 +17,7 @@ In This repo. we have one folder [THE BASIC THREE ](THE%20BASIC%20THREE/) which 
     model used: created neural network from scratch
 
     
-    # Dependencies
+# Dependencies
 
 The projects in this repository use the following libraries:
 
